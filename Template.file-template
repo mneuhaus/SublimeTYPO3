@@ -1,0 +1,13 @@
+<template>
+	<content><![CDATA[<f:layout name="${1:layout}" />
+
+<f:section name="${2:section}">
+	$0
+</f:section>]]></content>
+	<filename>$template.html</filename>
+	<path>Resources/Private/Templates/$controller/</path>
+	<arguments>
+		<controller>Controller:</controller>
+		<template>Template:</template>
+	</arguments>
+</template>

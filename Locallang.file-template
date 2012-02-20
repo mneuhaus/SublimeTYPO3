@@ -1,0 +1,16 @@
+<template>
+	<content><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>$1</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			$0
+		</languageKey>
+	</data>
+</T3locallang>]]></content>
+	<filename>locallang.xml</filename>
+	<path>Resources/Private/Language/</path>
+</template>
